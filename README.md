@@ -1,15 +1,15 @@
-# MiniPath
-library of input functions. and an input API
+# minPath
+a file system simulation
 
 # installation
 
 Run the following to install:
 ```cmd
-pip install MiniPath
+pip install minPath
 ```
 ### or
 ```cmd
-python -m pip install MiniPath
+python -m pip install minPath
 ```
 if that didn't work, try replacing `pip` with `pip3`.
 
