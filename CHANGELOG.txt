@@ -12,3 +12,8 @@ Change Log
 - nothing new just rewrite the description
 - deleted useless modules(those modules were tests and a mess code)
 - fix installing unwanted packages `install_requires`
+
+
+0.1.2 (2022/09/21)
+-------------------
+- fix installing unwanted packages `install_requires`
