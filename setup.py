@@ -9,7 +9,7 @@ classifiers = [
   'Programming Language :: Python :: 3',
   'License :: OSI Approved :: MIT License'
 ]
-__version__ = "0.1.2"
+__version__ = "0.1.3"
 __author__ = 'Alawi Hussein Adnan Al Sayegh'
 __description__ = 'imaginary path aka MiniPath'
 __license__ = """
